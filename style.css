@@ -256,3 +256,7 @@ footer .credit a {
 .profile {
     margin: 50px;
 }
+
+#shadowBox img {
+    margin: 20px;
+}
